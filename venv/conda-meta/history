@@ -1,5 +1,5 @@
-==> 2024-11-14 09:09:15 <==
-# cmd: C:\Users\MARK\anaconda3\Scripts\conda-script.py create -p venv python=3.13 -y
+==> 2024-11-14 13:48:09 <==
+# cmd: C:\Users\MARK\anaconda3\Scripts\conda-script.py create -p venv2 python=3.13 -y
 # conda version: 23.7.2
 +defaults/noarch::tzdata-2024b-h04d1e81_0
 +defaults/win-64::bzip2-1.0.8-h2bbff1b_6

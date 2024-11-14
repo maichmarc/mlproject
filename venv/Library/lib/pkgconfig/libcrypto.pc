@@ -1,4 +1,4 @@
-prefix=D:/PROJECTS/mlproject/venv/Library 
+prefix=D:/PROJECTS/mlproject/venv2/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
